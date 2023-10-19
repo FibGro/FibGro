@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Azure for Data Engineer <br>🌱 I’m currently learning Python, R, SQL, Power BI and Azure <br>⚡ Fun fact : I am new to Data Engineer and Data Analyst 
+🔭 I’m currently working on Azure for Data Engineer <br>🌱 I’m currently learning Python, R, SQL, Power BI and Azure <br>⚡ Fun fact is that I am new to Data Engineer and Data Analyst fields. 
 
 
 # 💻 Tech Stack:
